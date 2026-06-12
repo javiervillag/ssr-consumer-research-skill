@@ -83,16 +83,6 @@ Claude runs the session as a conversation, not a form. At the end you receive:
 
 ---
 
-## Files in This Repo
-
-| File | What it is |
-|------|------------|
-| `SKILL.md` | The Claude skill — install this or paste it to get started |
-| `content/linkedin_post.md` | LinkedIn post introducing the SSR method |
-| `content/x_thread.md` | X/Twitter thread about how the method works |
-
----
-
 ## Credits
 
 Original research: Maier et al. (2025), PyMC Labs & Colgate-Palmolive — [arXiv:2510.08338](https://arxiv.org/abs/2510.08338)
